@@ -181,13 +181,13 @@ export default function AboutPage() {
               <p className="text-gray-600">Client Satisfaction</p>
             </div>
 
-            <div className="text-center">
+            {/* <div className="text-center">
               <div className="bg-purple-100 p-4 rounded-full w-16 h-16 mx-auto mb-4 flex items-center justify-center">
                 <Award className="h-8 w-8 text-purple-600" />
               </div>
               <h4 className="text-3xl font-bold text-gray-800 mb-2">50+</h4>
               <p className="text-gray-600">Awards & Recognition</p>
-            </div>
+            </div> */}
           </div>
         </div>
       </section>
