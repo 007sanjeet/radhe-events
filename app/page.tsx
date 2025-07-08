@@ -278,7 +278,7 @@ export default function HomePage() {
                 <MapPin className="h-8 w-8 text-pink-600" />
               </div>
               <h4 className="font-semibold mb-2">Visit Us</h4>
-              <p className="text-gray-600">Mumbai, Maharashtra</p>
+              <p className="text-gray-600">Darbhanga, Bihar</p>
             </div>
           </div>
         </div>
