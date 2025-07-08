@@ -169,7 +169,7 @@ export default function AboutPage() {
               <div className="bg-purple-100 p-4 rounded-full w-16 h-16 mx-auto mb-4 flex items-center justify-center">
                 <Star className="h-8 w-8 text-purple-600" />
               </div>
-              <h4 className="text-3xl font-bold text-gray-800 mb-2">8+</h4>
+              <h4 className="text-3xl font-bold text-gray-800 mb-2">3+</h4>
               <p className="text-gray-600">Years Experience</p>
             </div>
 
