@@ -90,7 +90,7 @@ export default function AboutPage() {
                       <h3 className="text-3xl font-bold text-gray-800 mb-2">Aditya</h3>
                       <p className="text-xl text-pink-600 font-semibold mb-4">Founder & Lead Event Designer</p>
                       <p className="text-gray-600 leading-relaxed mb-6">
-                        With over 8 years of experience in event decoration and design, I founded Radhe Events with a
+                        With over 3 years of experience in event decoration and design, I founded Radhe Events with a
                         vision to create magical moments for every celebration. My passion for creativity and attention
                         to detail has helped hundreds of families celebrate their most precious moments.
                       </p>
@@ -113,7 +113,7 @@ export default function AboutPage() {
                       </div>
                       <div className="flex items-center space-x-3">
                         <MapPin className="h-5 w-5 text-pink-600" />
-                        <span className="text-gray-700">Andheri West, Mumbai, Maharashtra</span>
+                        <span className="text-gray-700">Darbhanga Bihar</span>
                       </div>
                     </div>
                   </div>
@@ -132,10 +132,10 @@ export default function AboutPage() {
             <div className="text-lg text-gray-600 leading-relaxed space-y-6">
               <p>
                 Radhe Events was born from a simple belief: every celebration deserves to be extraordinary. What started
-                as a small venture in 2016 has grown into Mumbai's trusted name for event decoration and design.
+                as a small venture in 2022 has grown into Darbhanga's trusted name for event decoration and design.
               </p>
               <p>
-                Our journey began when Aditya, after organizing her own wedding, realized her passion for creating
+                Our journey began when Aditya, after organizing his own sister's wedding, realized her passion for creating
                 beautiful spaces that bring joy to people's lives. Since then, we've had the privilege of decorating
                 over 500 events, each one unique and special.
               </p>
