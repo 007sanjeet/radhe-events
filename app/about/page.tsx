@@ -77,7 +77,7 @@ export default function AboutPage() {
                   <div className="relative h-64 lg:h-auto">
                     <Image
                       src="/placeholder.svg?height=400&width=400"
-                      alt="Radha Sharma - Event Organizer"
+                      alt="Aditya - Event Organizer"
                       fill
                       className="object-cover"
                     />
@@ -87,7 +87,7 @@ export default function AboutPage() {
                   {/* Content Section */}
                   <div className="p-8 lg:p-12">
                     <div className="mb-6">
-                      <h3 className="text-3xl font-bold text-gray-800 mb-2">Radha Sharma</h3>
+                      <h3 className="text-3xl font-bold text-gray-800 mb-2">Aditya</h3>
                       <p className="text-xl text-pink-600 font-semibold mb-4">Founder & Lead Event Designer</p>
                       <p className="text-gray-600 leading-relaxed mb-6">
                         With over 8 years of experience in event decoration and design, I founded Radhe Events with a
@@ -135,7 +135,7 @@ export default function AboutPage() {
                 as a small venture in 2016 has grown into Mumbai's trusted name for event decoration and design.
               </p>
               <p>
-                Our journey began when Radha Sharma, after organizing her own wedding, realized her passion for creating
+                Our journey began when Aditya, after organizing her own wedding, realized her passion for creating
                 beautiful spaces that bring joy to people's lives. Since then, we've had the privilege of decorating
                 over 500 events, each one unique and special.
               </p>
